@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df3e0793_442d8f34",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013881
+      },
+      "writtenOn": "2018-04-04T16:24:02Z",
+      "side": 1,
+      "message": "Where is the class designation?",
+      "revId": "d2646c0549685c1db12dada5fdf03afe703adc66",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dd4e51f5_e10cb1a6",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1013881
+      },
+      "writtenOn": "2018-04-04T16:24:02Z",
+      "side": 1,
+      "message": "comment at end",
+      "revId": "d2646c0549685c1db12dada5fdf03afe703adc66",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
