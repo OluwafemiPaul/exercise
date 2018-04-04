@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6e9a58d3_d8210283",
+        "filename": "readme.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013880
+      },
+      "writtenOn": "2018-04-04T16:07:20Z",
+      "side": 1,
+      "message": "Looks great",
+      "revId": "159f5e543a0ff01bdbccbe4262a7b98763e9a172",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
